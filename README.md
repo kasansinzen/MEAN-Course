@@ -1,27 +1,29 @@
-# MeanCourseApp
+# MEAN Course
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.1 for front-end.
 
-## Development server
+And backend project was created with NodeJS version 14.17.0
+
+## Overview
+
+Developed for tutorial course and follow coding from instructor on U-Demy about [MEAN Stack](https://www.udemy.com/course/angular-2-and-nodejs-the-practical-guide/) until completed.
+
+## Start: Front-End
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Start: Back-End
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Run `npm run start:server` for a dev server. Navigate to `http://localhost:3000/`
 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Running unit tests
+## Database
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+It on MongoDB Atlas but I have locked network access.
 
-## Running end-to-end tests
+## Developed by
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Kasansin Khamsat
